@@ -1,0 +1,11 @@
+/Users/markusbeamer/Projects/2ndCchallenges/2ndCchallenges/obj/Debug/netcoreapp2.0/2ndCchallenges.csprojResolveAssemblyReference.cache
+/Users/markusbeamer/Projects/2ndCchallenges/2ndCchallenges/obj/Debug/netcoreapp2.0/2ndCchallenges.csproj.CoreCompileInputs.cache
+/Users/markusbeamer/Projects/2ndCchallenges/2ndCchallenges/obj/Debug/netcoreapp2.0/2ndCchallenges.AssemblyInfoInputs.cache
+/Users/markusbeamer/Projects/2ndCchallenges/2ndCchallenges/obj/Debug/netcoreapp2.0/2ndCchallenges.AssemblyInfo.cs
+/Users/markusbeamer/Projects/2ndCchallenges/2ndCchallenges/bin/Debug/netcoreapp2.0/2ndCchallenges.deps.json
+/Users/markusbeamer/Projects/2ndCchallenges/2ndCchallenges/bin/Debug/netcoreapp2.0/2ndCchallenges.runtimeconfig.json
+/Users/markusbeamer/Projects/2ndCchallenges/2ndCchallenges/bin/Debug/netcoreapp2.0/2ndCchallenges.runtimeconfig.dev.json
+/Users/markusbeamer/Projects/2ndCchallenges/2ndCchallenges/bin/Debug/netcoreapp2.0/2ndCchallenges.dll
+/Users/markusbeamer/Projects/2ndCchallenges/2ndCchallenges/bin/Debug/netcoreapp2.0/2ndCchallenges.pdb
+/Users/markusbeamer/Projects/2ndCchallenges/2ndCchallenges/obj/Debug/netcoreapp2.0/2ndCchallenges.dll
+/Users/markusbeamer/Projects/2ndCchallenges/2ndCchallenges/obj/Debug/netcoreapp2.0/2ndCchallenges.pdb

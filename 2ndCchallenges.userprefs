@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{EC88B9EB-784E-4954-B024-D0DA151DD116}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="2ndCchallenges/differntcar.cs">
+    <Files>
+      <File FileName="2ndCchallenges/Program.cs" Line="7" Column="1" />
+      <File FileName="2ndCchallenges/Car.cs" Line="10" Column="17" />
+      <File FileName="2ndCchallenges/differntcar.cs" Line="7" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.2ndCchallenges PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

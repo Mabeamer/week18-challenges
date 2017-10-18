@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/markusbeamer/.dotnet/store/|arch|/|tfm|",
+      "/Users/markusbeamer/.nuget/packages"
+    ]
+  }
+}
